@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Adryan Inacio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adryan-inacio&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior web developer looking to enter the job market 
+- 🔥 Junior web developer looking for the first opportunity in the job market.
 
 - 🔭 I’m currently studying at [Rocketseat](https://github.com/Rocketseat)
 
