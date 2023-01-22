@@ -1,8 +1,14 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Adryan-Inacio/a07f96efcf52a6fe7454ba9eb54686ea/raw/e17d7b57413f0cc111acd6abdb0f7a3774d5ff9c/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Adryan Inacio</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adryan-inacio&color=yellow" alt="Profile views" /> </p>
 
-## Hello! i'm Adryan Inacio
+- 🔥 Junior web developer looking to enter the job market 
 
-- Web Development student at [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m currently studying at [Rocketseat](https://github.com/Rocketseat)
 
+- 👨‍💻 More at (Working on it...) <!-- [nome do site aqui](link do site aqui) -->
+
+<br><br>
 
 ## Technologies being studied
 <p style="display: inline_block"><br>
@@ -13,19 +19,17 @@
   <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </p>
 
+<br><br>
 
-## Github Analytics
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=adryan-inacio&show_icons=true&theme=vision-friendly-dark" alt="adryan-inacio stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryan-inacio&layout=compact&theme=vision-friendly-dark" alt="adryan-inacio most languages"/>
-</p>
+## Contact
 
-
-## Social links
 <p>
-  <a href="https://www.linkedin.com/in/adryan-inacio-5b2168228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:adryaninacio@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</p>
+  <a href="https://www.linkedin.com/in/adryan-inacio-5b2168228/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-adryan_inacio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+  <a href="https://linkedin.com/in/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-adryan_inacio-05122A?style=flat&logo=gmail" alt="email"/>
+</a>
 
 
 <!--### Hi there 👋
