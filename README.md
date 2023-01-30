@@ -24,7 +24,7 @@
 ## Contact
 
 <p>
-  <a href="https://www.linkedin.com/in/adryan-inacio-5b2168228/" target="_blank">
+  <a href="https://www.linkedin.com/in/adryan-inacio" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-adryan_inacio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
   <a href="mailto:adryaninacio@outlook.com" target="_blank">
